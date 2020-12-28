@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="note_text_hint" translatable="false">Texto de la nota</string>
+    <string name="note_activity_label" translatable="false">Editar Nota</string>
+    <string name="note_title_hint">Titulo de la nota</string>
+    <string name="nav_howmany_message_format" translatable="false">Notas:%1$d | Cursos: %2$d</string>
+</resources>
